@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashphy04/Leet-Code/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/yashphy04/Leet-Code/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Sliding Window
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/yashphy04/Leet-Code/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yashphy04/Leet-Code/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Greedy
 |  |
