@@ -10,6 +10,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashphy04/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,10 +18,12 @@
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/yashphy04/Leet-Code/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
