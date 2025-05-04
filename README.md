@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/yashphy04/Leet-Code/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashphy04/Leet-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/yashphy04/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yashphy04/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yashphy04/Leet-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/yashphy04/Leet-Code/tree/master/2249-count-the-hidden-sequences) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashphy04/Leet-Code/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/yashphy04/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/yashphy04/Leet-Code/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/yashphy04/Leet-Code/tree/master/0868-push-dominoes) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/yashphy04/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
