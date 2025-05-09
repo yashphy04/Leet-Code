@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/yashphy04/Leet-Code/tree/master/0009-palindrome-number) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yashphy04/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/yashphy04/Leet-Code/tree/master/1500-count-largest-group) |
