@@ -37,6 +37,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2915-count-of-interesting-subarrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/yashphy04/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yashphy04/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/yashphy04/Leet-Code/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yashphy04/Leet-Code/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/yashphy04/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yashphy04/Leet-Code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -90,6 +92,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/yashphy04/Leet-Code/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yashphy04/Leet-Code/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yashphy04/Leet-Code/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/yashphy04/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yashphy04/Leet-Code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
@@ -114,11 +117,13 @@
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/yashphy04/Leet-Code/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/yashphy04/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yashphy04/Leet-Code/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yashphy04/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/yashphy04/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
