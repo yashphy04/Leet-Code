@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashphy04/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/yashphy04/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yashphy04/Leet-Code/tree/master/0009-palindrome-number) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yashphy04/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
