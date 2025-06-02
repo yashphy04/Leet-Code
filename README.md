@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashphy04/Leet-Code/tree/master/0001-two-sum) |
+| [0135-candy](https://github.com/yashphy04/Leet-Code/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashphy04/Leet-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yashphy04/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -87,6 +88,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/yashphy04/Leet-Code/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashphy04/Leet-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yashphy04/Leet-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
