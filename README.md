@@ -54,6 +54,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/yashphy04/Leet-Code/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashphy04/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/yashphy04/Leet-Code/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/yashphy04/Leet-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2915-count-of-interesting-subarrays) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashphy04/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yashphy04/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yashphy04/Leet-Code/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/yashphy04/Leet-Code/tree/master/3637-count-number-of-balanced-permutations) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashphy04/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashphy04/Leet-Code/tree/master/2215-finding-3-digit-even-numbers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashphy04/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Topological Sort
 |  |
 | ------- |
