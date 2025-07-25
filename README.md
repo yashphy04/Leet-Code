@@ -33,6 +33,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/yashphy04/Leet-Code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yashphy04/Leet-Code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/yashphy04/Leet-Code/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/yashphy04/Leet-Code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yashphy04/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yashphy04/Leet-Code/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/yashphy04/Leet-Code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yashphy04/Leet-Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashphy04/Leet-Code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yashphy04/Leet-Code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/yashphy04/Leet-Code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
