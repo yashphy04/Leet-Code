@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/yashphy04/Leet-Code/tree/master/0001-two-sum) |
 | [0135-candy](https://github.com/yashphy04/Leet-Code/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashphy04/Leet-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yashphy04/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/yashphy04/Leet-Code/tree/master/1293-three-consecutive-odds) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/yashphy04/Leet-Code/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yashphy04/Leet-Code/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashphy04/Leet-Code/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/yashphy04/Leet-Code/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yashphy04/Leet-Code/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/yashphy04/Leet-Code/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/0934-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
