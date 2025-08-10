@@ -41,6 +41,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yashphy04/Leet-Code/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/yashphy04/Leet-Code/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yashphy04/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/yashphy04/Leet-Code/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashphy04/Leet-Code/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -77,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/yashphy04/Leet-Code/tree/master/0900-reordered-power-of-2) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yashphy04/Leet-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashphy04/Leet-Code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashphy04/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -89,6 +91,7 @@
 | [0009-palindrome-number](https://github.com/yashphy04/Leet-Code/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/yashphy04/Leet-Code/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/yashphy04/Leet-Code/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashphy04/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yashphy04/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/yashphy04/Leet-Code/tree/master/1500-count-largest-group) |
@@ -164,6 +167,7 @@
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/yashphy04/Leet-Code/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yashphy04/Leet-Code/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yashphy04/Leet-Code/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yashphy04/Leet-Code/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -199,6 +203,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/yashphy04/Leet-Code/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashphy04/Leet-Code/tree/master/2215-finding-3-digit-even-numbers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yashphy04/Leet-Code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Topological Sort
