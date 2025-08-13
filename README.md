@@ -90,6 +90,7 @@
 | [0007-reverse-integer](https://github.com/yashphy04/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yashphy04/Leet-Code/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/yashphy04/Leet-Code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yashphy04/Leet-Code/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/yashphy04/Leet-Code/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashphy04/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashphy04/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/yashphy04/Leet-Code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/yashphy04/Leet-Code/tree/master/0326-power-of-three) |
 ## Breadth-First Search
 |  |
 | ------- |
