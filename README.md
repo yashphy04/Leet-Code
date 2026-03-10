@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashphy04/Leet-Code/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/yashphy04/Leet-Code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashphy04/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0135-candy](https://github.com/yashphy04/Leet-Code/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
@@ -66,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/yashphy04/Leet-Code/tree/master/0031-next-permutation) |
 | [0868-push-dominoes](https://github.com/yashphy04/Leet-Code/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashphy04/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
