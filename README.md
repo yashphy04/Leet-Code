@@ -29,6 +29,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yashphy04/Leet-Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2915-count-of-interesting-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/yashphy04/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yashphy04/Leet-Code/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yashphy04/Leet-Code/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/yashphy04/Leet-Code/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -53,6 +54,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/2915-count-of-interesting-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/yashphy04/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yashphy04/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yashphy04/Leet-Code/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/yashphy04/Leet-Code/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -103,6 +105,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/yashphy04/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/yashphy04/Leet-Code/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yashphy04/Leet-Code/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/yashphy04/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/yashphy04/Leet-Code/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yashphy04/Leet-Code/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yashphy04/Leet-Code/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -201,6 +204,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/yashphy04/Leet-Code/tree/master/2965-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/yashphy04/Leet-Code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yashphy04/Leet-Code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
