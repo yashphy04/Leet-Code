@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/yashphy04/Leet-Code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashphy04/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0135-candy](https://github.com/yashphy04/Leet-Code/tree/master/0135-candy) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/yashphy04/Leet-Code/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -82,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/yashphy04/Leet-Code/tree/master/0900-reordered-power-of-2) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yashphy04/Leet-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yashphy04/Leet-Code/tree/master/2215-finding-3-digit-even-numbers) |
@@ -193,6 +195,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/yashphy04/Leet-Code/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/yashphy04/Leet-Code/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
@@ -255,4 +258,12 @@
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/yashphy04/Leet-Code/tree/master/3791-fruits-into-baskets-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
