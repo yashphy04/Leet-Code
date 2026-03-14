@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/yashphy04/Leet-Code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashphy04/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0135-candy](https://github.com/yashphy04/Leet-Code/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/yashphy04/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -132,6 +133,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/yashphy04/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0806-domino-and-tromino-tiling](https://github.com/yashphy04/Leet-Code/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yashphy04/Leet-Code/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/0934-bitwise-ors-of-subarrays) |
