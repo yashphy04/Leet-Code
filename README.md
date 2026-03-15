@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/yashphy04/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0135-candy](https://github.com/yashphy04/Leet-Code/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/yashphy04/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashphy04/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashphy04/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0797-rabbits-in-forest](https://github.com/yashphy04/Leet-Code/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yashphy04/Leet-Code/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashphy04/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashphy04/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yashphy04/Leet-Code/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/yashphy04/Leet-Code/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yashphy04/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
